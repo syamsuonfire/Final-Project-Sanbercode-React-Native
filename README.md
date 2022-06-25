@@ -1,6 +1,12 @@
-# Final Project Apps with React Native
+## Final Project Apps with React Native
 
-This is the repository for Final Project Sanbercode React Native
+# Biodata
+
+Nama	: Syamsu Rijal Efendi
+Email	: syamsuefendi@gmail.com
+Akun Instagram : @syamsuonfire
+Akun LinkedIn : https://www.linkedin.com/in/syamsu-rijal-efendi/
+
 
 # MovieGames Apps
 
