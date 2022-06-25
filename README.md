@@ -2,19 +2,17 @@
 
 This is the repository for Final Project Sanbercode React Native
 
-## MovieGames Apps
+# MovieGames Apps
 
 MovieGames is Apps to see a list of your favorite movies.
 
-## Technology Used
+# Technology Used
 
 Technology that used in this mobile apps is Javascript, React Native, Redux, Expo.
 
-## Apps Demo
-
 # Link Repository
 
-https://gitlab.com/syamsuonfire
+https://gitlab.com/syamsuonfire/Final-Project-Sanbercode-React-Native
 
 # Link Video Demo YouTube
 
