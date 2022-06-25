@@ -2,10 +2,10 @@
 
 # Biodata
 
-Nama	: Syamsu Rijal Efendi
-Email	: syamsuefendi@gmail.com
-Akun Instagram : @syamsuonfire
-Akun LinkedIn : https://www.linkedin.com/in/syamsu-rijal-efendi/
+Nama	: Syamsu Rijal Efendi <br>
+Email	: syamsuefendi@gmail.com <br>
+Akun Instagram : @syamsuonfire <br>
+Akun LinkedIn : https://www.linkedin.com/in/syamsu-rijal-efendi <br>
 
 
 # MovieGames Apps
